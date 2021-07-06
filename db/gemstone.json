@@ -1,0 +1,29 @@
+{
+  "id": "gemstone",
+  "author": "znepb",
+  "license": "MIT",
+  "dependencies": {},
+  "repos": {
+    "primary": {
+      "type": "github",
+      "organization": "znepb",
+      "title": "gemstone"
+    }
+  },
+  "versions": {
+    "stable": {},
+    "beta": {
+      "latest": 2,
+      "names": [
+        {
+          "github-commit": "d06aff51b99256e421cd26624c2736bf3308c60c",
+          "name": "v1.0-beta.1"
+        },
+        {
+          "github-commit": "387393fca4d9381aca4428e2fb389f24d5a5d450",
+          "name": "v1.0-beta.2"
+        }
+      ]
+    }
+  }
+}
